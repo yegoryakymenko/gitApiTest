@@ -1,0 +1,7 @@
+.list-group-item img {
+    height: 150px;
+    width: 150px;
+}
+.company-name {
+    text-transform: capitalize;
+}
